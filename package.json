@@ -1,0 +1,15 @@
+{
+  "name": "tree-ui-gql-server",
+  "version": "1.0.0",
+  "description": "GraphQL server for feeding dummy data to client",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Adarsh",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.9.0"
+  }
+}
